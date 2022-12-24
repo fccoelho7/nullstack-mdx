@@ -1,0 +1,20 @@
+{
+  "name": "nullstack-mdx",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.8",
+    "nullstack": "~0.17.0",
+    "postcss-loader": "^7.0.1",
+    "tailwindcss": "^3.0.0"
+  },
+  "scripts": {
+    "start": "npx nullstack start",
+    "build": "npx nullstack build"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^2.2.1"
+  }
+}
